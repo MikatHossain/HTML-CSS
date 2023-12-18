@@ -67,3 +67,4 @@ const object = {
   }, //es6
 };
 console.log(object.fn());
+console.log(object.fn());

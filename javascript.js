@@ -62,8 +62,9 @@ const object = {
     console.log("Hello World!");
   }, //method
 
-  fn() {
+  method() {
     console.log("Hello World!");
   }, //es6
 };
 console.log(object.fn());
+console.log(object.method());
